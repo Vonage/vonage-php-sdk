@@ -27,6 +27,7 @@
   },
   "require": {
     "php": ">=7.1",
-    "php-http/guzzle6-adapter": "^2.0"
+    "php-http/guzzle6-adapter": "^2.0",
+    "nexmo/client-core": "^1.0"
   }
 }
