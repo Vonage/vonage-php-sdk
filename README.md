@@ -1,5 +1,7 @@
 # Nexmo PHP Complete Package
 
+<img src="https://developer.nexmo.com/assets/images/Vonage_Nexmo.svg" height="48px" alt="Nexmo is now known as Vonage" />
+
 This package is a wrapper for our PHP library, which you can find here: <https://github.com/Nexmo/nexmo-php>
 
 This package exists to separate the Nexmo functionality from the HTTP Client. If you can't install this package due to a conflict with the `guzzle6-adapter` package, you can instead install:
