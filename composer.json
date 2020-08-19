@@ -1,6 +1,6 @@
 {
-  "name": "nexmo/client",
-  "description": "PHP Client for using Nexmo's API.",
+  "name": "vonage/client",
+  "description": "PHP Client for using Vonage's API.",
   "license": "MIT",
   "type": "library",
   "authors": [
@@ -32,6 +32,6 @@
   "require": {
     "php": ">=7.1",
     "php-http/guzzle6-adapter": "^2.0",
-    "nexmo/client-core": "^2.0"
+    "vonage/client-core": "^2.0"
   }
 }
