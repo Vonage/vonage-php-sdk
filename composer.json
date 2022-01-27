@@ -8,6 +8,23 @@
       "name": "James Seconde",
       "email": "jim.seconde@vonage.com",
       "role": "PHP Developer Advocate"
+    },
+    {
+      "name": "Tim Lytle",
+      "role": "Developer",
+      "homepage": "https://twitter.com/tjlytle"
+    },
+    {
+      "name": "Michael Heap",
+      "role": "Developer"
+    },
+    {
+      "name": "Lorna Mitchell",
+      "role": "Developer"
+    },
+    {
+      "name": "Chris Tankersley",
+      "role": "Developer"
     }
   ],
   "support": {
