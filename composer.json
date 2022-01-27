@@ -5,33 +5,37 @@
   "type": "library",
   "authors": [
     {
+      "name": "James Seconde",
+      "email": "jim.seconde@vonage.com",
+      "role": "PHP Developer Advocate"
+    },
+    {
       "name": "Tim Lytle",
-      "email": "tim@nexmo.com",
       "role": "Developer",
-      "homepage": "http://twitter.com/tjlytle"
+      "homepage": "https://twitter.com/tjlytle"
     },
     {
       "name": "Michael Heap",
-      "email": "michael.heap@vonage.com",
-      "role": "Developer"
+      "role": "Developer",
+      "homepage": "https://www.twitter.com/mheap"
     },
     {
       "name": "Lorna Mitchell",
-      "email": "lorna.mitchell@vonage.com",
-      "role": "Developer"
+      "role": "Developer",
+      "homepage": "https://lornajane.net/"
     },
     {
       "name": "Chris Tankersley",
-      "email": "chris.tankersley@vonage.com",
-      "role": "Developer"
+      "role": "Developer",
+      "homepage": "https://twitter.com/dragonmantank"
     }
   ],
   "support": {
-    "email": "devrel@nexmo.com"
+    "email": "devrel@vonage.com"
   },
   "require": {
-    "php": ">=7.2",
+    "php": "~7.4 || ~8.0 || ~8.1",
     "guzzlehttp/guzzle": "^7.0",
-    "vonage/client-core": "^2.0"
+    "vonage/client-core": "^3.0"
   }
 }

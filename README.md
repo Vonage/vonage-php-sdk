@@ -4,6 +4,9 @@
 
 This package is a wrapper for our PHP library, which you can find here: <https://github.com/vonage/vonage-php-sdk-core>
 
+> Please note that all requirements for this package will match the core library, including platform requirements such
+> as a minimum requirement for PHP 7.4
+
 This package exists to separate the Vonage functionality from the HTTP Client. If you can't install this package due to a conflict with the `guzzle6-adapter` package, you can instead install:
 
 * The main package `vonage/client-core`
