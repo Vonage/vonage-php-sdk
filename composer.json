@@ -16,15 +16,18 @@
     },
     {
       "name": "Michael Heap",
-      "role": "Developer"
+      "role": "Developer",
+      "homepage": "https://www.twitter.com/mheap"
     },
     {
       "name": "Lorna Mitchell",
-      "role": "Developer"
+      "role": "Developer",
+      "homepage": "https://lornajane.net/"
     },
     {
       "name": "Chris Tankersley",
-      "role": "Developer"
+      "role": "Developer",
+      "homepage": "https://twitter.com/dragonmantank"
     }
   ],
   "support": {
