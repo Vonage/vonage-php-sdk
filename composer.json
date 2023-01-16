@@ -34,8 +34,8 @@
     "email": "devrel@vonage.com"
   },
   "require": {
-    "php": "~7.4 || ~8.0 || ~8.1",
+    "php": "~8.0 || ~8.1 || ~8.2",
     "guzzlehttp/guzzle": "^7.0",
-    "vonage/client-core": "^3.0"
+    "vonage/client-core": "^4.0"
   }
 }
